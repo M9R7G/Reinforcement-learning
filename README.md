@@ -1,6 +1,6 @@
 # Reinforcement-learning
 
-An algorithm of reinforcement learning impleted to control the behavior of an agent that has to clear a maze in Unity.
+An algorithm of reinforcement learning implemented to control the behavior of an agent that has to clear a maze in Unity.
 
 This repository contains two unity projects. 
 
