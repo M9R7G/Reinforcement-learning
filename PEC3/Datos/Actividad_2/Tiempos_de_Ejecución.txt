@@ -1,0 +1,8 @@
+Tiempo de ejecución 1 limitado: 93,48154
+Tiempo de ejecución 2 limitado: 98,6505
+Tiempo de ejecución 3 limitado: 97,69569
+Tiempo de ejecución 4 limitado: 102,1672
+Tiempo de ejecución 1 sin limite: 124,0468
+Tiempo de ejecución 2 sin limite: 121,966
+Tiempo de ejecución 3 sin limite: 123,9508
+Tiempo de ejecución 4 sin limite: 124,2245

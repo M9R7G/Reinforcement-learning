@@ -1,0 +1,5 @@
+Tiempo de ejecución 12000 episodios death reward -5: 4881,28
+Tiempo de ejecución 500 episodios death reward -5: 476,314
+Tiempo de ejecución 1000 episodios death reward -5: 754,1263
+Tiempo de ejecución 1000 episodios death reward -1: 784,6326
+Tiempo de ejecución: 858,5616
